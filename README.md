@@ -8,7 +8,7 @@ Las tarjetas no están escritas a mano: JavaScript las construye a partir de los
 - **Ficha:** 3349882
 - **Programa:** Tecnólogo en Análisis y Desarrollo de Software.
 - **Centro:** SENA CDITI - Dosquebradas.
-- **Sitio publicado (GitHub Pages):** Pendiente de publicación.
+- **Sitio publicado (GitHub Pages):** https://hernandezgvale.github.io/rutas-eje-cafetero/
 - **Lo que aprendí:** ver [APRENDIZAJES.md](APRENDIZAJES.md).
 
 ## Tecnologías
